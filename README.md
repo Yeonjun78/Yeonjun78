@@ -12,4 +12,4 @@ CS Student @ East Texas A&M University
 - Python
 - CS Fundamentals
 - FastAPI
-- SQL
+
