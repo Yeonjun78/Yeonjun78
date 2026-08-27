@@ -6,7 +6,6 @@ CS Student @ East Texas A&M University
 - AI Engineering
 - Football Analytics
 - Backend Development 
-- Finance Tech
 
 ## Currently Learning
 - Pandas
